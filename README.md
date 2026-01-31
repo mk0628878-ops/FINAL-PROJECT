@@ -16,6 +16,19 @@ Indian flight ticket price prediction uses multi-feature machine learning (Rando
 
 3.Service Features: Cabin class (economy, business). 
 
+Demographic if Indian flight
+
+<img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/9026c68c-ed15-45a2-b626-6564f6c7fd84" />
+
+
+
+
+
+
+
+
+
+
 Key Factors Influencing Price:
 
 <img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/76d70407-d720-4835-98f8-d163b52b117a" />
@@ -75,7 +88,33 @@ Project objectives
 
 
 
-To analyze pricing, demand, and operational patterns for insights into passenger behavior, airline strategy, and market trends, often using machine learning for price prediction or identifying factors like airline, time, route, and stops affecting cost, to help businesses and travelers. Key goals include predicting ticket prices, understanding price variations across different factors, and optimizing flight schedules, notes.
+1.To analyze pricing, demand, and operational patterns for insights into passenger behavior
+
+2.airline strategy, and market trends, often using machine learning for price prediction or identifying factors like airline, time, route, and stops affecting cost, to help businesses and travelers. 
+
+3.Key goals include predicting ticket prices, understanding price variations across different factors, and optimizing flight schedules, notes.
+
+Indian flight passenger's revenue
+
+India’s largest airline sees shares drop after earnings plunge 78% on forex and other provisions
+
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/f2fa75e9-9d70-46cd-a16a-171364cf6863" />
+
+
+
+
+
+
+
+1.Indigo is expected to face further earnings pressure in March quarter this year.
+
+2.The airline served 124 million customers in 2025, up 9% on year.
+
+India’s largest airline, Indigo, that cancelled more than 2,500 flights within days last month causing massive disruptions, reported a 78% drop in profit in the December quarter, sending its shares down more than 3%.The company, which reported results after market close on Thursday, made a provision of 5.8 billion rupees ($63 million) toward compensation following flight disruptions in December.
+The larger impact on its earnings, however, was from a one-time charge owed to the implementation of new labor code and forex losses, together amounting to about 20 billion rupees.The lack of progress on the U.S.-India trade deal has hurt investor confidence, contributing to capital outflows, and has weighed on the rupee, making it Asia’s worst performing currency last year — down about 5%.The currency was last trading at 91.52 and experts predict it to slip further to 92 rupee per dollar level by end of March, which could spell more trouble for forex-exposed businesses including Indigo.
+The March quarter for the airline is “expected to be weaker” despite a 10% rise in available seat kilometers, or ASK, according to a report by Jefferies on Thursday. ASK is a key metric for measuring passenger capacity.The brokerage added that the airline will see a “moderation” in passenger revenue per available seat kilometer (PRASK) and increase in cost per available seat kilometer as the company “continues to add aircraft.”Jefferies maintains a buy rating on the stock with a target price of 6,140 rupees per share.Airlines in India face pressure on both costs and revenue fronts as a majority of the airlines get nearly 65% of their revenue from domestic travel, for which passengers pay in Indian rupees, but most of the costs are in dollars.Indigo is adding more capacity because they need to grow, but the next 6-12 months will be tough, as we expect the rupee to weaken further and fuel costs to rise, said Mark Martin, founder and CEO of aviation consulting firm Martin Consulting.He told CNBC that Indigo may need to fly on more international routes to improve its dollar earnings. This was also hinted at in the company’s earnings call, with the management saying that new seat additions will be skewed toward international routes.
+
+
 
 
 Key Considerations:
@@ -95,6 +134,23 @@ Key Considerations:
 4.Best for Budget: IndiGo and Air India Express (AIX) are ideal for low-cost, direct flights.
 
 5.Safety: IndiGo has been recognized for excellent safety, recording zero Level 1 findings in 2025 audits. 
+
+Most of the passenger's dissatifaction of Indian airline flight's
+
+<img width="251" height="201" alt="image" src="https://github.com/user-attachments/assets/aef796c3-5075-41c1-917a-44f4bc918313" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 TOOL'S AND TECHNOLOGIES
