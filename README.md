@@ -27,17 +27,17 @@ Key's demographic trend's in  Indian flight
 
 
 
-Active Fliers: Only 4% of the population flies, despite India having nearly 18% of the world's population.
+1.Active Fliers: Only 4% of the population flies, despite India having nearly 18% of the world's population.
 
-Frequency: A small portion of households account for a disproportionately high number of flights; one report suggests 1% of households take 45% of flights.
+2.Frequency: A small portion of households account for a disproportionately high number of flights; one report suggests 1% of households take 45% of flights.
 
-Income Demographic: Growth is primarily driven by a rapidly expanding, upwardly mobile middle class.
+3.Income Demographic: Growth is primarily driven by a rapidly expanding, upwardly mobile middle class.
 
-Gender Diversity in Aviation: India has a remarkably high percentage of female airline pilots, boasting roughly twice the global average, with women holding about 12-13% of pilot roles.
+4.Gender Diversity in Aviation: India has a remarkably high percentage of female airline pilots, boasting roughly twice the global average, with women holding about 12-13% of pilot roles.
 
-Passenger Volume: Domestic passenger traffic is expected to reach 175-181 million in FY26.
+5.Passenger Volume: Domestic passenger traffic is expected to reach 175-181 million in FY26.
 
-Region and Type: South Asia accounts for nearly 69% of total airline traffic, with domestic travel being dominant. 
+6.Region and Type: South Asia accounts for nearly 69% of total airline traffic, with domestic travel being dominant. 
 
 
 
