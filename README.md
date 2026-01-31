@@ -152,11 +152,42 @@ Key Considerations:
 
 5.Safety: IndiGo has been recognized for excellent safety, recording zero Level 1 findings in 2025 audits. 
 
+Key Indian airlines Impact
+
+<img width="311" height="162" alt="image" src="https://github.com/user-attachments/assets/c3f60434-b715-4f78-87eb-bcd0a7250fbf" />
+
+
+
+
+
+
+
+Air India: Has faced significant criticism for poor in-flight service, including instances of unhygienic conditions, broken equipment, and inadequate crew responsiveness.
+
+SpiceJet: Has been noted for having a high volume of complaints, particularly regarding service and operational issues.
+
+IndiGo: As the market leader, it has also received a high volume of complaints, though it has focused on digitalizing to improve, notes this Moneycontrol article. 
+
+
 Most of the passenger's dissatifaction of Indian airline flight's
 
 <img width="251" height="201" alt="image" src="https://github.com/user-attachments/assets/aef796c3-5075-41c1-917a-44f4bc918313" />
 
 
+
+
+
+
+
+1.Flight Delays & Cancellations: Flight issues account for over 60% of complaints, with significant frustration over long delays, often caused by technical issues or poor operational management.
+
+2.In-Flight Service & Amenities: Reports highlight cold food, limited options, and poor cabin hygiene. Incidents include broken seats and dirty toilets, particularly on long-haul routes.
+
+3.Staff Behavior & Service: Passengers have reported rude staff behavior at check-in and on board. There have been notable, extreme instances of poor service, including cabin crew sleeping on long-haul flights and failure to assist passengers in emergencies.
+
+4.Infrastructure: Many travelers find seating to be cramped and in-flight entertainment systems non-functional.
+
+5.Operational Failures: Complaints also cover high airfares, lost or damaged baggage, and unhelpful customer service during disruptions. 
 
 
 
