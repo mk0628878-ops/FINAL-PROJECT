@@ -1,4 +1,5 @@
 MULTI FEACTURE OF PASSENGER INDIAN FLIGHT TICKET PRICE PTEDICTION
+
 <img width="225" height="224" alt="image" src="https://github.com/user-attachments/assets/10f3639a-b07a-4ae8-9217-b7716f6d494c" />
 
 
@@ -41,6 +42,7 @@ Key Project Pillars and Trends:
 
 
 FINDING'S
+
 <img width="288" height="175" alt="image" src="https://github.com/user-attachments/assets/02985209-20a2-422e-b52b-25d411c2731b" />
 
 
@@ -52,6 +54,7 @@ FINDING'S
 It states that moments after take-off, the plane's fuel control switches, which are normally used when starting the engines before a flight and shutting them down afterwards, had been moved from the "run" to the "cut-off" position. This would have deprived the engines of fuel, causing them to lose thrust rapidly
 
 Project objectives 
+
 <img width="168" height="300" alt="image" src="https://github.com/user-attachments/assets/93e3d6f4-55a4-493a-b085-73ea9205518f" />
 
 
@@ -62,6 +65,7 @@ To analyze pricing, demand, and operational patterns for insights into passenger
 
 
 Key Considerations:
+
 <img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/c32666e6-1072-4238-8963-275fd58df011" />
 
 
@@ -76,6 +80,7 @@ Key Considerations:
 
 
 TOOL'S AND TECHNOLOGIES
+
 <img width="299" height="169" alt="image" src="https://github.com/user-attachments/assets/641ed401-6908-4e85-b917-d27cb665ed8f" />
 
 
@@ -88,6 +93,7 @@ pandas - data manipulation,
 matplotlib & seaborn - visualization's
 
 Top Indian Airline Recommendations:
+
 <img width="299" height="169" alt="image" src="https://github.com/user-attachments/assets/a47595ad-f5fe-4e0b-ae64-c16f34824028" />
 
 
@@ -100,6 +106,7 @@ Top Indian Airline Recommendations:
 4.Best New Entrant: Akasa Air is recognized for reliable, modern, and high-quality service. 
 
 Dataset
+
 <img width="201" height="251" alt="image" src="https://github.com/user-attachments/assets/1228721f-6a3d-4002-bff6-fca0eaab99fa" />
 
 
