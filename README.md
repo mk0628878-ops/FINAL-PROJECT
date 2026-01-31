@@ -13,7 +13,8 @@ Indian flight ticket price prediction uses multi-feature machine learning (Rando
 
 Key Factors Influencing Price:
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/6d5ca888-51af-47be-942d-86ba2746b3fb" />
+<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/76d70407-d720-4835-98f8-d163b52b117a" />
+
 
 
 
