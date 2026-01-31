@@ -94,7 +94,9 @@ matplotlib & seaborn - visualization's
 
 Top Indian Airline Recommendations:
 
-<img width="299" height="169" alt="image" src="https://github.com/user-attachments/assets/a47595ad-f5fe-4e0b-ae64-c16f34824028" />
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/9b77fad0-2f17-4f2c-9266-e91e2ae0804f" />
+
+
 
 
 
